@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryankacim8
-- 👀 I’m interested in Software development, AI/ML
+- 👀 I’m interested in Web development, AI/ML
 - 🌱 I’m currently learning Front end development(html/css)
 - 💞️ I’m looking to collaborate on mobile apps, ecommerce stores
 
